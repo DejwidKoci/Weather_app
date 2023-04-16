@@ -1,4 +1,4 @@
 # Weather_app
-In this project is created weather app using tkiner, timezonefinder, requests pytz and PIL modules.<br/>
-The folders "icons" and "images" we have icons to show current weather and images to visuality of our application. <br/>
-In application we can introduce our city and then the app show us weather data features in window.
+In this project we create a weather application using the tkiner, timezonefinder, requests pytz and PIL modules.
+In the "icons" and "images" folders we have icons to show the current weather and images to visualise our application.
+In the app, we can enter our city and then the app will show us weather data in a window.
